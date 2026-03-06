@@ -7,7 +7,7 @@
 I'm computer eingeniery student with an interest in software development and data sciency
 - 📫 Reach out to me at: <a href="vanessapm4@gmail.com">vanessapm4@gmail.com</a>
 
-## My Skills Include
+<h3 >My Skills Include</h3>
 
 <h4> Languages </h4>
 <span> 
