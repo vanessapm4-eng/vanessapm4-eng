@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I'm computer eingeniery student with an interest in software development and data sciency
+I'm a computer engineering student with an interest in software development and data science
 - 📫 Reach out to me at: <a href="vanessapm4@gmail.com">vanessapm4@gmail.com</a>
 
 <h3 >My Skills Include</h3>
