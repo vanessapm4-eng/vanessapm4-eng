@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vanessa Palacios <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-🎓 Information Systems Engineering student  
-💻 Interested in software development and testing  
+Information Systems Engineering student  
+Interested in software development and testing  
 
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
@@ -35,5 +35,5 @@ I also have experience in software testing, applying testing strategies and TDD,
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
 </span>
-## Currently
+<h4>  Currently </h4>
 I am looking for an internship where I can gain experience, improve my skills, and contribute to a development team.
